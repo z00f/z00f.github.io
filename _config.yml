@@ -19,7 +19,7 @@ locale                   : "es-MX"
 title                    : "z00f"
 title_separator          : "-"
 name                     : "z00f"
-description              : "Posts about security"
+description              : "Artículos sobre seguridad informática"
 url                      : "https://z00f.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "z00f/z00f.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -41,7 +41,7 @@ comments:
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment."
+  commitMessage          : # "Nuevo comentario."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "z00f"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester"
+  bio              : #""
   location         : "México"
   email            : #""
   uri              :
